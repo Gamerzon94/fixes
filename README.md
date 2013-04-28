@@ -14,3 +14,5 @@ Halls of Reflection functionality: 100%
   - Ice Walls break
   - Ice Wall Waves spawning
   - Ship at End spawning
+
+Updated by: janja96 & Baeumchen
